@@ -1,6 +1,6 @@
-# C Learning Journey - Kaioxen
+# Kaioxen
 
-> "Belajar ke dunia sistem programming"
+> "From Zero to Master"
 
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
@@ -8,7 +8,7 @@
 ![Progress](https://img.shields.io/badge/Progress-25%25-blue?style=for-the-badge)
 
 ## About This Journey
-Sebuah eksperimen pembelajaran bahasa C dalam lingkungan unik:
+Learning C in an unconventional setup
 
 - **Device**: Xiaomi Redmi Note 5A (3GB free storage)
 - **Environment**: Ubuntu 22.04 via chroot on Android 10
@@ -42,7 +42,7 @@ Sebuah eksperimen pembelajaran bahasa C dalam lingkungan unik:
 
 ## Philosophy
 ```c
-// Kaioxen's Manifesto
+// Learning Approach
 #define PASSION       as_fuel
 #define CURIOSITY     as_compiler
 #define CONSISTENCY   as_algorithm

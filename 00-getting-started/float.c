@@ -8,5 +8,6 @@ int main()
 	printf("_x = %f\n ", _x); //f
 	printf("_y = %.1f\n", _y); //1
 	printf("_z %.2f", _z); //2 
+	printf("beraoa tambah berapa yg hasilnya 25?");
 	return 0; 	
 }

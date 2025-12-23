@@ -28,6 +28,6 @@ int main()
     _w = "Do you know CR7?";
     printf("%s %s %s %s\n ", _x, _z, _y, _w);  
 
-    printf("%s %s %s %s %s\n ", *_hello, *_my, *_name, *_is, *_wildan);
+    printf("%d %d %d %d %d\n ", *_hello, *_my, *_name, *_is, *_wildan);
 	return 0;
 }

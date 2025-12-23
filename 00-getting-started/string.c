@@ -4,8 +4,9 @@ int main()
 {
 	char _firstName[] = "Wildan";
 	int _age = 17;
+	char _my[] = "my";
 	
-	printf("Hello my name is %s\n", _firstName);
+	printf("Hello %s name is %s\n", _my, _firstName);
 	printf("_age %d years old", _age);
 	
 	

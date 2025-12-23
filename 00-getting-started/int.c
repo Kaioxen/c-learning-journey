@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) 
+
+/* int main(void) 
 {
     int _age = 17;
     int _year = 2025;
@@ -11,3 +12,18 @@ int main(void)
 	printf("values %d\n", _values); 
     return 0;	
 }
+
+*/
+
+int main()
+{
+	int _a = 12;
+	int _b = 13;
+	int _sum = _a + _b;
+
+	printf("hasil %d", _sum);
+	
+}
+
+
+

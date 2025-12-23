@@ -7,6 +7,6 @@ int main()
     int _tahun = 2008;
     int _tanggal = 16;
     int _bulan = 02;
-    printf("tanggal lahir saya, %d %d %d",  _tanggal, _bulan, _tahun);
+    printf("tanggal lahir saya, %d.%d.%d",  _tanggal, _bulan, _tahun);
 	return 0;
 }

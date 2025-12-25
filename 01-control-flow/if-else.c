@@ -13,8 +13,6 @@ int main()
     else  {
     printf("nilai yang kamu masukan salah\n");   	
    }
-
-   //end
-   printf("END");
+   
    return 0;
 }

@@ -5,10 +5,15 @@ int main()
    printf("hasil nilai : ");
    scanf("%d", &_x);
    if (_x == 17) {
-   	printf("nilai yang kamu masukan adalah 17");
-   } else {
+   	printf("nilai yang kamu masukan  17\n");
+   }
+    else if (_x == 16) {
+        printf("nilai yang kamu masukan 16\n");
+    }
+    else  {
     printf("nilai yang kamu masukan salah\n");   	
    }
+
    //end
    printf("END");
    return 0;

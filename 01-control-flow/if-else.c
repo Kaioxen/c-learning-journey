@@ -8,7 +8,7 @@ int main()
    if (_x == 17) {
    	printf("nilai yang kamu masukan adalah 17");
    } else {
-    printf("nilai yang kamu masukan bukan salah");   	
+    printf("nilai yang kamu masukan bukan salah\n");   	
    }
    printf("%s\n", _end);
    

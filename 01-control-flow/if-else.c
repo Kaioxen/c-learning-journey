@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main()
-{  int _x;
-   char _end[] = "END";  
+{  int _x;  
    printf("hasil nilai : ");
    scanf("%d", &_x);
    if (_x == 17) {
@@ -10,7 +9,7 @@ int main()
    } else {
     printf("nilai yang kamu masukan bukan salah\n");   	
    }
-   printf("%s\n", _end);
-   
+   //end
+   printf("END");
    return 0;
 }

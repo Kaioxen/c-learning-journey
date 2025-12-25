@@ -26,7 +26,8 @@ int main()
    else {
       	printf("masukan no ini %d", _a );
    }
-   
+  // else if()
+     
    
    return 0;
 }

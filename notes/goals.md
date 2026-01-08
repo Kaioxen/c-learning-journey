@@ -1,4 +1,4 @@
-# Target Minggu Ini (23-27 Des 2025)
+# Target (consistent)
 
 ## Hari 1-2: User Input
 - [X] Pahami scanf() untuk int, float, char

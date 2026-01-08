@@ -14,7 +14,7 @@ A practical exploration of C programming within unique constraints, driven by cu
 **Development Environment:**
 - Device: Xiaomi Redmi Note 5A (3GB available storage)
 - Platform: Ubuntu 22.04 via chroot on Android 10
-- Compiler: GCC 11.4.0 (aarch64 architecture)
+- Compiler: clang version 14.0.0-1 (aarch64 architecture)
 - Approach: Understanding over memorization, consistency over intensity
 
 ## Current Progress

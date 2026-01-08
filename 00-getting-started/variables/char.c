@@ -31,7 +31,7 @@ int main()
 
     printf("%d %d %d %d %d\n ", *_hello, *_my, *_name, *_is, *_wildan);
 
-       printf("%s%s\", _depan, _belakang  
+       printf("%s%s\n", _depan, _belakang  
 );
 
 	return 0;

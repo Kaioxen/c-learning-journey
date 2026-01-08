@@ -1,4 +1,4 @@
- * Author: Kaioxen (Wildan Hermawan)
+ * Author: Kaioxen (Wildan !)
  * Date: 2025-12-21
  * Description: Learning C from scratch
  */

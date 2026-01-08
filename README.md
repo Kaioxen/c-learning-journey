@@ -1,6 +1,6 @@
 # Kaioxen
 
-> From Zero to Master - A C Programming Journey
+> From Zero to Master 
 
 ![C Language](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)

@@ -5,9 +5,9 @@ int main()
 {
  
  char _maaf[] = "maafin gua ";
-
+ float _sum = 999;
 for (int i = 1; i <= 1000; i++) {
-    printf("%s%d\n", _maaf, i);  // Output maafin gua 1, maafin gua 2, dst...
+    printf("%s %d %f.1\n", _maaf, i, _sum);  // Output maafin gua 1, maafin gua 2, dst...
 }
 return 0;
 

@@ -6,7 +6,7 @@ int main()
         printf("HAI"); 
         printf("status nilai : ");
         scanf("%d", &_nilai);
-    if (_nilai > 65 ) {
+    if (_nilai > 74 ) {
         printf("lulus\n");    	
     } else {
      	printf("gagal\n");

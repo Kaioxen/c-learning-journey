@@ -12,7 +12,8 @@ int main()
     char _name[] = "name";
     char _is[] = "is";
     char _wildan[] = "Wildan Hermawan";
-    
+    char *_depan = "HELLO";
+    char *_belakang = "WORLD";
 /*
     _hello = "Hello";
     _my = "my";
@@ -29,5 +30,11 @@ int main()
     printf("%s %s %s %s\n ", _x, _z, _y, _w);  
 
     printf("%d %d %d %d %d\n ", *_hello, *_my, *_name, *_is, *_wildan);
+
+       printf("%s%s\", _depan, _belakang  
+);
+
 	return 0;
+
+
 }

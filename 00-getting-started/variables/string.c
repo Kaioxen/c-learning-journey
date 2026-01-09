@@ -7,7 +7,7 @@ int main()
 	char my[] = "my";
 	
 	printf("Hello %s name is %s\n", my, firstName);
-	printf("_age %d years old", age);
+	printf("age %d years old", age);
 	
 	
 	return 0;
